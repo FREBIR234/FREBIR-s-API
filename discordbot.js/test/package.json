@@ -1,0 +1,11 @@
+{
+  "name": "module-test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "FREBIR",
+  "license": "ISC"
+}
